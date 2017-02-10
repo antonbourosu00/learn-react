@@ -4,6 +4,6 @@ import App from './App';
 
 
 ReactDOM.render(
-  <App cat={5} txt="Maleiculasalam" />,
+  <App />,
   document.getElementById('root')
-);
+)
